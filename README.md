@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: April 26 - 29, 2021
-- Facilitator: @ppremk
+- Facilitator: @ppremk, @ppremk
 
 ## Talk to Us!!
 
